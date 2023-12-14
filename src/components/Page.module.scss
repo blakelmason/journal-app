@@ -1,0 +1,7 @@
+.page > div {
+    padding: 1em 2em;
+    min-height: 100%;
+    &:focus-visible {
+        outline: none;
+    }
+}
